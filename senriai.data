@@ -1,0 +1,5 @@
+classes = 14
+train = /home/ic1/darknet/logs/DCON2021_SenriAi/Southeast_Botanical_Gardens/yolo_train.txt
+valid = /home/ic1/darknet/logs/DCON2021_SenriAi/Southeast_Botanical_Gardens/yolo_test.txt
+names = /home/ic1/darknet/logs/DCON2021_SenriAi/Southeast_Botanical_Gardens/classes.txt
+backup =/home/ic1/darknet/logs/DCON2021_SenriAi/Southeast_Botanical_Gardens/backup
